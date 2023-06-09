@@ -1,4 +1,4 @@
-# Investigating-Netflix-Movies-using-Python
+# Investigating-Netflix-Movies-using-Python (Pandas)
 
 I'm thrilled to share that I've successfully completed my project on analyzing the average duration of movies on Netflix using pandas! I started by organizing the available data into a Python dictionary, capturing the movie durations for the years 2011 to 2020. Using this dictionary, I created a pandas DataFrame, which allowed me to manipulate and analyze the data efficiently.
 
